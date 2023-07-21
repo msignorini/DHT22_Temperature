@@ -52,6 +52,6 @@ Add the following line
 0,15,30,45 * * * * /usr/bin/python3 /home/marco/Documents/DHT22/DHT22_read.py
 ```
 
-## Reference
-https://pimylifeup.com/raspberry-pi-humidity-sensor-dht22/
-https://tutorials-raspberrypi.com/raspberry-pi-measure-humidity-temperature-dht11-dht22
+## References
+- https://pimylifeup.com/raspberry-pi-humidity-sensor-dht22/
+- https://tutorials-raspberrypi.com/raspberry-pi-measure-humidity-temperature-dht11-dht22
